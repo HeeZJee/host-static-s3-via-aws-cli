@@ -50,3 +50,6 @@ Now we will host our static website on s3.
 Your website is live now you can verify it by replacing bucket and region name via following url
 
     http://your-bucket-name.s3-website-your-region-name.amazonaws.com/
+e.g 
+    http://michael-says.s3-website-ap-southeast-1.amazonaws.com/ 
+    
